@@ -7,3 +7,6 @@
 ## 25 September 2025
 -done with Exer03_01
 --updated in the GitHub
+## 01 October 2025
+-done with Exer03_02
+--updated in the GitHub
