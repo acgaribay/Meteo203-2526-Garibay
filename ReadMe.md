@@ -10,3 +10,6 @@
 ## 01 October 2025
 -done with Exer03_02
 --updated in the GitHub
+## 07 October 2025
+-done with Exer04_01_eda
+--updated in the GitHub
